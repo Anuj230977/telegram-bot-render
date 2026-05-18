@@ -217,9 +217,9 @@ MIT License - See LICENSE file for details
 
 ## 📞 Support
 
-- 📧 Email: [Your Email]
+- 📧 Email: anuj1230567@gmail.com
 - 💬 Issues: [GitHub Issues](https://github.com/Anuj230977/telegram-bot-render/issues)
-- 🔗 Telegram: [@YourBotUsername](https://t.me/your_bot_username)
+- 🔗 Telegram: [@new_chat_updatedbot](https://t.me/new_chat_updatedbot)
 
 ---
 
